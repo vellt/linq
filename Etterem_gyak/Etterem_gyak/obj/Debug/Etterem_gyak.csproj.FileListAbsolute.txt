@@ -1,0 +1,10 @@
+C:\Users\Szántó Benjámin\source\repos\Etterem_gyak\Etterem_gyak\bin\Debug\Etterem_gyak.exe.config
+C:\Users\Szántó Benjámin\source\repos\Etterem_gyak\Etterem_gyak\bin\Debug\Etterem_gyak.exe
+C:\Users\Szántó Benjámin\source\repos\Etterem_gyak\Etterem_gyak\bin\Debug\Etterem_gyak.pdb
+C:\Users\Szántó Benjámin\source\repos\Etterem_gyak\Etterem_gyak\bin\Debug\NetworkHelper.dll
+C:\Users\Szántó Benjámin\source\repos\Etterem_gyak\Etterem_gyak\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Szántó Benjámin\source\repos\Etterem_gyak\Etterem_gyak\obj\Debug\Etterem_gyak.csproj.AssemblyReference.cache
+C:\Users\Szántó Benjámin\source\repos\Etterem_gyak\Etterem_gyak\obj\Debug\Etterem_gyak.csproj.CoreCompileInputs.cache
+C:\Users\Szántó Benjámin\source\repos\Etterem_gyak\Etterem_gyak\obj\Debug\Etterem_gyak.csproj.CopyComplete
+C:\Users\Szántó Benjámin\source\repos\Etterem_gyak\Etterem_gyak\obj\Debug\Etterem_gyak.exe
+C:\Users\Szántó Benjámin\source\repos\Etterem_gyak\Etterem_gyak\obj\Debug\Etterem_gyak.pdb
