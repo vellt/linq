@@ -8,3 +8,12 @@ C:\Users\Szántó Benjámin\source\repos\Etterem_gyak\Etterem_gyak\obj\Debug\Ett
 C:\Users\Szántó Benjámin\source\repos\Etterem_gyak\Etterem_gyak\obj\Debug\Etterem_gyak.csproj.CopyComplete
 C:\Users\Szántó Benjámin\source\repos\Etterem_gyak\Etterem_gyak\obj\Debug\Etterem_gyak.exe
 C:\Users\Szántó Benjámin\source\repos\Etterem_gyak\Etterem_gyak\obj\Debug\Etterem_gyak.pdb
+C:\etelek\linq\Etterem_gyak\Etterem_gyak\bin\Debug\Etterem_gyak.exe.config
+C:\etelek\linq\Etterem_gyak\Etterem_gyak\bin\Debug\Etterem_gyak.exe
+C:\etelek\linq\Etterem_gyak\Etterem_gyak\bin\Debug\Etterem_gyak.pdb
+C:\etelek\linq\Etterem_gyak\Etterem_gyak\bin\Debug\Newtonsoft.Json.dll
+C:\etelek\linq\Etterem_gyak\Etterem_gyak\obj\Debug\Etterem_gyak.csproj.AssemblyReference.cache
+C:\etelek\linq\Etterem_gyak\Etterem_gyak\obj\Debug\Etterem_gyak.csproj.CoreCompileInputs.cache
+C:\etelek\linq\Etterem_gyak\Etterem_gyak\obj\Debug\Etterem_gyak.csproj.CopyComplete
+C:\etelek\linq\Etterem_gyak\Etterem_gyak\obj\Debug\Etterem_gyak.exe
+C:\etelek\linq\Etterem_gyak\Etterem_gyak\obj\Debug\Etterem_gyak.pdb
